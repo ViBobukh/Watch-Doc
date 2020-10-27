@@ -1,0 +1,19 @@
+{
+  "name": "watch_doc",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ./test/test.js",
+    "run": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.17.1",
+    "jsdoc": "^3.6.6",
+    "socket.io": "^2.3.0"
+  }
+}
